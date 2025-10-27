@@ -26,6 +26,4 @@ To build a desktop-based task management tool that allows users to **add, edit, 
 - **Libraries/Frameworks:** Java Swing (GUI), Collections, File I/O  
 - **IDE Used:** Visual Studio Code (or IntelliJ / Eclipse)  
 
----
 
-## 📂 Project Structure
